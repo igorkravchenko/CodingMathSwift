@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='circle'/>
+        <page name='ellipse'/>
+        <page name='lissajous curve'/>
+        <page name='circle from circles'/>
+    </pages>
+</playground>

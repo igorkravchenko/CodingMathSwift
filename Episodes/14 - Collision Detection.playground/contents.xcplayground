@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Circle-circle'/>
+        <page name='Circle-point'/>
+        <page name='Rectangle-point'/>
+        <page name='Rectangle-rectangle'/>
+    </pages>
+</playground>
